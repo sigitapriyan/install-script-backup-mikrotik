@@ -137,13 +137,17 @@ Backup otomatis perangkat MikroTik kamu sekarang telah aktif!
 Jangan lupa untuk mengganti bagian berikut pada script sesuai kebutuhan:
 
 Parameter	Keterangan
-IPSERVER	Alamat IP FTP Server
-USER_FTP	Username FTP Server
-PASS_FTP	Password FTP Server
+
+IPSERVER	Alamat IP FTP Server (wajib dirubah)
+
+USER_FTP	Username FTP Server (wajib dirubah)
+
+PASS_FTP	Password FTP Server (wajib dirubah)
 
 ## 🧪 Tested On
 
 MikroTik RouterOS 6.49.10
+
 MikroTik RouterOS 7.12
 
 ## 📜 License
